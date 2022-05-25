@@ -1,7 +1,7 @@
 # Banco_de_Dados
 
 CTD : Segundo Bimestre 
-## 👩‍💻💻 __Aula 09: Checkpoint 1 Modelagem de banco mysql com Workbench__
+__Aula 09: Checkpoint 1 Modelagem de banco mysql com Workbench__
 
 <br>
 
